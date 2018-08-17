@@ -3,11 +3,13 @@ pathological images detection
 
 
 openslide-python installation:
+
     sudo apt-get install python3-openslide
     pip install openslide-python
 
   
 pyvips installation:
+
     Building libvips from a source tarball
     If the packaged version is too old, you might need to build from source.
 
@@ -31,5 +33,6 @@ pyvips installation:
   
   
 opencv-python installation:
+
     pip install opencv-python
   
