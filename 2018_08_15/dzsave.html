@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <title>OpenSeadragon_Demo0</title>
+    <script src='../openseadragon.min.js'></script>
+</head>
+
+<body>
+    <div id='openSeadragon1' style='width:1850px; height:960px;'></div>
+</body>
+
+
+<script type='text/javascript'>
+    OpenSeadragon({
+        id: 'openSeadragon1',
+        prefixUrl: '../images/',
+        tileSources: {
+            Image: {
+                xmlns: 'http://schemas.microsoft.com/deepzoom/2008',
+                Url: './dzsave_files/',
+                Overlap: '1',
+                TileSize: '254',
+                Format: 'jpeg',
+                Size: {
+                    Height: '22787',
+                    Width: '87648'
+                }
+            }
+        }
+    });
+</script>
+
+</html>
