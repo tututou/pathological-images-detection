@@ -6,6 +6,11 @@ openslide-python installation:
 
     sudo apt-get install python3-openslide
     pip install openslide-python
+    1. sudo apt-get install libopenjpeg-dev libsqlite3-dev 
+    2. sudo apt-get install openslide-tools 
+    3. sudo apt-get install python-openslide 
+    4. sudo apt-get install python3-openslide
+    5. sudo apt install libtiff5=4.0.6-1
 
   
 pyvips installation:
