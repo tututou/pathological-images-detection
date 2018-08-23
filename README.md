@@ -13,6 +13,7 @@ openslide-python installation:
     https://www.linuxidc.com/Linux/2017-09/147187.htm
     https://github.com/uclouvain/openjpeg/blob/master/INSTALL.md
     https://www.cnblogs.com/yszr/p/8120475.html
+    下面是最重要的一=步，也是最后一步
     5. sudo apt install libtiff5=4.0.6-1
 
   
