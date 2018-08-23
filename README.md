@@ -12,6 +12,7 @@ openslide-python installation:
     4. sudo apt-get install python3-openslide
     https://www.linuxidc.com/Linux/2017-09/147187.htm
     https://github.com/uclouvain/openjpeg/blob/master/INSTALL.md
+    https://www.cnblogs.com/yszr/p/8120475.html
     5. sudo apt install libtiff5=4.0.6-1
 
   
